@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laboratoriobiolabassischat.com.br/sitemap.xml
